@@ -4,6 +4,7 @@ I'm Simon wells a lecturer in the School of Computing at Edinburgh Napier Univer
 
 - [My Academic Site](http://www.simonwells.org)
 - [My Research Group: Arg@ENU](http://arg.enu.ac.uk)
+- [My Blog: Strange Aeons](http://www.strangeaeons.org)
 
 
 <!--
