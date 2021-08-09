@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Simon wells a lecturer in the School of Computing at Edinburgh Napier University in Scotland. This is just one of my "homes on the web" where I collect together some of the work that I do. Mostly that work involves computers and programming. When getting away from the screen, I play with synths (mostly Moog, Arturia, & Elektron gear), read (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer writers as well), and listen to music (mostly jazz with a focus on Coltrane, Mingus, Monk, and Sanders).
+I'm Simon wells a lecturer in the School of Computing at Edinburgh Napier University in Scotland. This is just one of my "homes on the web" where I collect together some of the work that I do. Mostly that work involves computers and programming. When getting away from the screen, I play with synths (mostly Moog, Arturia, & Elektron gear), read (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer writers as well), and listen to music (mostly jazz with a focus on Coltrane, Mingus, Monk, Shorter, Hancock, Hubbard, and Sanders).
 
 - [My Personal/Academic Site](http://www.simonwells.org)
 - [My Research Group: Arg@ENU](http://arg.enu.ac.uk)
