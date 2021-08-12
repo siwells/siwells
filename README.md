@@ -2,9 +2,9 @@
 
 I'm Simon wells. I'm a lecturer in the [School of Computing](https://www.napier.ac.uk/about-us/our-schools/school-of-computing) at [Edinburgh Napier University](https://www.napier.ac.uk) in Scotland, UK. This is just one of my "homes on the web" where I collect together some of the work that I do. Mostly that work involves computers and programming. When getting away from the screen, I play with synths (mostly Moog, Arturia, & Elektron gear), read (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer writers as well), and listen to music (mostly jazz with a focus on Coltrane, Mingus, Monk, Shorter, Hancock, Hubbard, and Sanders).
 
-- [My Personal/Academic Site](http://www.simonwells.org)
-- [My Research Group: Arg@ENU](http://arg.enu.ac.uk)
-- [My Blog: Strange Aeons](http://www.strangeaeons.org)
+- [simonwells.org](http://www.simonwells.org) - My personal/academic site. Find information on my publications & teaching related activities here.
+- [Arg@ENU](http://arg.enu.ac.uk) - My research group site focussed on argumentation research @ ENU. Find information on my projects and opportunities to join my research programme (particularly student project opportunities).
+- [Strange Aeons](http://www.strangeaeons.org) - Occasional essays on topics of interest to me.
 
 
 <!--
