@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Simon wells. I'm a lecturer in the [School of Computing](https://www.napier.ac.uk/about-us/our-schools/school-of-computing) at [Edinburgh Napier University](https://www.napier.ac.uk) in Scotland, UK. This is just one of my "homes on the web" where I collect together some of my work and interests. 
+I'm Simon Wells. I'm a lecturer in the [School of Computing](https://www.napier.ac.uk/about-us/our-schools/school-of-computing) at [Edinburgh Napier University](https://www.napier.ac.uk) in Scotland, UK. This is just one of my "homes on the web" where I collect together some of my work and interests. 
 
 Work mostly involves computers, programming, and AI. But when getting away from the screen, I play with synths and sound creation (mostly Moog, Arturia, & Elektron gear), read (mostly sci-fi with a focus on classic/golden age although I keep up with many of the newer writers as well), listen to music (mostly jazz with a focus on Coltrane, Mingus, Monk, Shorter, Hancock, Hubbard, and Sanders), and gaming (tabletop, board, and video).
 
